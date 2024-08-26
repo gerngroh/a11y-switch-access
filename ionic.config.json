@@ -1,0 +1,7 @@
+{
+  "name": "a11y-switch-access",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
